@@ -6,7 +6,7 @@
 
 Install conda environments required for the rest of module. Go to the `environments` folder and create the conda environments based on the `environment.yml` file. Each `yml` file is prefixed with the environment name. 
 
-For example, to create the `bde` environment:
+For example, to create the `bde` environment, first navigate into the `environments` folder by running `cd environments`, then run the following command:
 
 `conda env create --file bde-environment.yml`
 
